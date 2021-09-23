@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "IB0ob1KNOfZOMsbUvS9j2wyLX0pKovGQBKTGQBwRD6cKB65oMgyCzR34qzGZyQHQP",
+    "mondoUri": "mongodb+srv://Mikel:1234@cluster0.ue2fg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
